@@ -1,0 +1,53 @@
+
+
+.home {
+    font-size: 30px;
+}
+
+
+
+
+
+/*index.html*/
+
+.index-body {
+    background-color: black;
+}
+
+.index-header {
+    color:aqua;
+    font-size: 60px;
+}
+
+.index-links {
+    list-style-type: none;
+    text-align: center;
+    font-size: 60px;
+    color: red;
+
+}
+
+/*lasagna.html*/
+
+.lasagna-body {
+    background-color: black;
+    color: white;
+}
+
+.lasagna-body.header1 {
+    color: aqua
+}
+
+/*bun-cha.html*/
+
+.bun-body {
+    background-color: blueviolet;
+    color:black;
+}
+
+/*banh-mi.html*/
+
+.banh-body {
+    background-color: aqua;
+    color:black;
+}
